@@ -1,4 +1,4 @@
-# ClipaIsso v0.0.2
+# ClipaIsso
 
 **ClipaIsso** é uma aplicação desktop moderna para download e edição de vídeos, construída com tecnologias de ponta para oferecer uma experiência rápida e intuitiva.
 
@@ -11,26 +11,6 @@ O ClipaIsso é uma ferramenta completa que combina:
 - **Interface moderna**: Dashboard intuitivo com tema dark
 - **API integrada**: Servidor Rust (Axum) para operações avançadas
 - **Instalação automática**: Detecta e instala dependências necessárias
-
-## 📦 Downloads Disponíveis
-
-Esta release inclui dois tipos de instaladores para Windows:
-
-### 🔧 Instalador MSI
-```
-ClipaIsso_0.0.2_x64_en-US.msi
-```
-- **Recomendado para**: Ambientes corporativos e instalações automatizadas
-- **Características**: Instalação silenciosa, fácil desinstalação via Painel de Controle
-- **Tamanho**: ~15MB
-
-### 🎯 Instalador NSIS  
-```
-ClipaIsso_0.0.2_x64-setup.exe
-```
-- **Recomendado para**: Usuários finais e instalações personalizadas
-- **Características**: Interface gráfica de instalação, opções avançadas
-- **Tamanho**: ~15MB
 
 ## ⚡ Funcionalidades Principais
 
@@ -68,15 +48,6 @@ ClipaIsso_0.0.2_x64-setup.exe
 - **Empresa**: [0r1.org](https://0r1.org)
 - **Desenvolvedor**: [gabrielrcodes](https://gabrielrcodes.0r1.org)
 
-## 📝 Notas da Versão
-
-**v0.0.2** - Release Inicial
-- Implementação completa do core da aplicação
-- Dashboard com informações do sistema
-- Instalação automática de dependências
-- Sistema de atualizações via GitHub
-- Interface web integrada
-
 ---
 
-**Desenvolvido com ❤️ por gabrielrcodes** 
+**Desenvolvido com ❤️ por gabrielrcodes**
