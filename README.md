@@ -1,8 +1,8 @@
-**ClipaIsso** é uma aplicação desktop moderna para download e edição de vídeos, construída com tecnologias de ponta para oferecer uma experiência rápida e intuitiva.
-
 ## 🎯 O que é o ClipaIsso?
 
-O ClipaIsso é uma ferramenta completa que combina:
+**ClipaIsso** é uma aplicação desktop moderna para download e edição de vídeos, construída com tecnologias de ponta para oferecer uma experiência rápida e intuitiva.
+
+A ferramenta combina:
 
 - **Download de vídeos**: Suporte a múltiplas plataformas através do yt-dlp
 - **Edição e corte**: Processamento eficiente com FFmpeg integrado
